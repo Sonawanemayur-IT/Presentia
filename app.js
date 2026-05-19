@@ -77,7 +77,7 @@ function setupLogin() {
       tab.classList.add('active');
       const email = $('login-email');
       const pwd = $('login-password');
-      if (tab.dataset.role === 'student') { email.value = 'mayur.sonawane@student.edu'; pwd.value = 'pass123'; }
+      if (tab.dataset.role === 'student') { email.value = 'sakshi.rajput@student.edu'; pwd.value = 'pass123'; }
       else if (tab.dataset.role === 'faculty') { email.value = 'ramesh.kumar@faculty.edu'; pwd.value = 'pass123'; }
       else if (tab.dataset.role === 'admin') { email.value = 'admin@attend.edu'; pwd.value = 'pass123'; }
     });

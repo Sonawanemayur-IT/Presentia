@@ -2,7 +2,7 @@ const DB_NAME = 'PresentiaDB';
 const DB_VERSION = 1;
 
 const STUDENTS = [
-  { name: 'Mayur Sonawane', email: 'mayur.sonawane@student.edu', enrollment: 'STU001', section: 'A', batch: '2024-25', password: 'pass123' },
+  { name: 'Sakshi Rajput', email: 'sakshi.rajput@student.edu', enrollment: 'STU001', section: 'A', batch: '2024-25', password: 'pass123' },
   { name: 'Priya Patel', email: 'priya.patel@student.edu', enrollment: 'STU002', section: 'A', batch: '2024-25', password: 'pass123' },
   { name: 'Aarav Sharma', email: 'aarav.sharma@student.edu', enrollment: 'STU003', section: 'A', batch: '2024-25', password: 'pass123' },
   { name: 'Ananya Singh', email: 'ananya.singh@student.edu', enrollment: 'STU004', section: 'A', batch: '2024-25', password: 'pass123' },
