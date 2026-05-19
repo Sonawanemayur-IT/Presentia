@@ -46,7 +46,7 @@ Or simply double-click `index.html` in your file explorer.
 
 | Role     | Email                          | Password |
 |----------|--------------------------------|----------|
-| Student  | sakshi.rajput@student.edu      | pass123  |
+| Student  | mayur.sonawane@student.edu     | pass123  |
 | Faculty  | ramesh.kumar@faculty.edu       | pass123  |
 | Admin    | admin@attend.edu               | pass123  |
 
